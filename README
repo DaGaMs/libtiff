@@ -1,10 +1,5 @@
-libtiff
-=======
+$Header: /cvs/maptools/cvsroot/libtiff/README,v 1.7 2012-02-18 21:53:27 bfriesen Exp $
 
-This is a git copy of tiff 4.0.1, with a build script to compile for iOS 5.1. To compile from the command line, just type ./build.sh
-
-Here's the rest of the original README file:
-=======
 
 TIFF Software Distribution
 --------------------------
