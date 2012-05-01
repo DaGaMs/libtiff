@@ -1,0 +1,4 @@
+libtiff
+=======
+
+libtiff for iOS
